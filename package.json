@@ -1,0 +1,30 @@
+{
+  "name": "activities",
+  "version": "1.0.0",
+  "description": "a recreation of advaith's famous activities bot || can be used to watch youtube , play games inside of discord",
+  "main": "activity.js",
+  "scripts": {
+    "dev": "nodemon activity.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whirl21/Activities.git"
+  },
+  "keywords": [
+    "discord",
+    "discordbot",
+    "activity",
+    "yt"
+  ],
+  "author": "Whirl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Whirl21/Activities/issues"
+  },
+  "homepage": "https://github.com/Whirl21/Activities#readme",
+  "dependencies": {
+    "discord-together": "^1.1.62",
+    "discord.js": "^13.1.0",
+    "nodemon": "^2.0.12"
+  }
+}
